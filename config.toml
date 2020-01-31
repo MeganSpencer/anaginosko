@@ -1,0 +1,68 @@
+baseurl = "https://anaginosko.com/"
+title = "ἀναγινώσκω – Anaginosko"
+theme = "hamburg"
+languageCode = "en-au"
+copyright = "Megan Spencer"
+disqusShortname = ""
+googleAnalytics = ""
+
+[Privacy]
+
+[Privacy.disqus]
+    disable = true
+
+[Privacy.googleAnalytics]
+    anonymizeIP = true
+    respectDoNotTrack = true
+    useSessionStorage = false
+
+[Author]
+    name = "Megan Spencer"
+    profile = ""
+
+[Taxonomies]
+    tag = "tags"
+
+[Params]
+    mainSections = ["post"]
+    intro = true
+    headline = "ἀναγινώσκω"
+    description = "Reading Koine Greek"
+    subtitle = "Reading Koine Greek"
+    github = ""
+    gitlab = ""
+    linkedin = ""
+    gplus = ""
+    twitter = "spenmegan"
+    stackoverflow = ""
+    facebook = "profile.php?id=100046137440833"
+    email = "megan@biblicaltext.com"
+    opengraph = true
+    shareTwitter = true
+    shareFacebook = true
+    shareGooglePlus = true
+    shareLinkedIn = false
+    dateFormat = "Mon, Jan 2, 2006"
+    highlightJsUrl = ""
+    highlightJsLocalUrl = ""
+    exponeaJsUrl = ""
+    exponeaTarget = ""
+    exponeaToken = ""
+    exponeaTrackVisits = false
+    readingTime = true
+    readingTimeText = "Estimated reading time:"
+    fathomUrl = ""
+    fathomSiteId = ""
+
+[Permalinks]
+    post = "/:year/:month/:day/:filename/"
+
+[[menu.main]]
+    name = "Blog"
+    url = "/"
+    weight = 1
+
+[[menu.main]]
+    name = "About"
+    url = "/page/about/"
+    weight = 4
