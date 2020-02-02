@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-au</language>
     <copyright>Megan Spencer</copyright>
-    <lastBuildDate>Thu, 30 Jan 2020 03:11:40 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Feb 2020 02:01:40 +0000</lastBuildDate>
     
 	<atom:link href="https://anaginosko.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>greek</title>
       <link>https://anaginosko.com/tags/greek/</link>
-      <pubDate>Thu, 30 Jan 2020 03:11:40 +0000</pubDate>
+      <pubDate>Sun, 02 Feb 2020 02:01:40 +0000</pubDate>
       
       <guid>https://anaginosko.com/tags/greek/</guid>
       <description></description>
@@ -24,7 +24,7 @@
     <item>
       <title>koine</title>
       <link>https://anaginosko.com/tags/koine/</link>
-      <pubDate>Thu, 30 Jan 2020 03:11:40 +0000</pubDate>
+      <pubDate>Sun, 02 Feb 2020 02:01:40 +0000</pubDate>
       
       <guid>https://anaginosko.com/tags/koine/</guid>
       <description></description>
@@ -33,9 +33,27 @@
     <item>
       <title>luke</title>
       <link>https://anaginosko.com/tags/luke/</link>
-      <pubDate>Thu, 30 Jan 2020 03:11:40 +0000</pubDate>
+      <pubDate>Sun, 02 Feb 2020 02:01:40 +0000</pubDate>
       
       <guid>https://anaginosko.com/tags/luke/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>trial</title>
+      <link>https://anaginosko.com/tags/trial/</link>
+      <pubDate>Sun, 02 Feb 2020 02:01:40 +0000</pubDate>
+      
+      <guid>https://anaginosko.com/tags/trial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>verbal aspect</title>
+      <link>https://anaginosko.com/tags/verbal-aspect/</link>
+      <pubDate>Sun, 02 Feb 2020 02:01:40 +0000</pubDate>
+      
+      <guid>https://anaginosko.com/tags/verbal-aspect/</guid>
       <description></description>
     </item>
     
